@@ -1,0 +1,14 @@
+D:\Visual\list11\bin\Debug\net8.0\list11.exe
+D:\Visual\list11\bin\Debug\net8.0\list11.deps.json
+D:\Visual\list11\bin\Debug\net8.0\list11.runtimeconfig.json
+D:\Visual\list11\bin\Debug\net8.0\list11.dll
+D:\Visual\list11\bin\Debug\net8.0\list11.pdb
+D:\Visual\list11\obj\Debug\net8.0\list11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\list11\obj\Debug\net8.0\list11.AssemblyInfoInputs.cache
+D:\Visual\list11\obj\Debug\net8.0\list11.AssemblyInfo.cs
+D:\Visual\list11\obj\Debug\net8.0\list11.csproj.CoreCompileInputs.cache
+D:\Visual\list11\obj\Debug\net8.0\list11.dll
+D:\Visual\list11\obj\Debug\net8.0\refint\list11.dll
+D:\Visual\list11\obj\Debug\net8.0\list11.pdb
+D:\Visual\list11\obj\Debug\net8.0\list11.genruntimeconfig.cache
+D:\Visual\list11\obj\Debug\net8.0\ref\list11.dll

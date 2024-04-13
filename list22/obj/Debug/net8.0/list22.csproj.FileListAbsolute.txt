@@ -1,0 +1,14 @@
+D:\Visual\list22\bin\Debug\net8.0\list22.exe
+D:\Visual\list22\bin\Debug\net8.0\list22.deps.json
+D:\Visual\list22\bin\Debug\net8.0\list22.runtimeconfig.json
+D:\Visual\list22\bin\Debug\net8.0\list22.dll
+D:\Visual\list22\bin\Debug\net8.0\list22.pdb
+D:\Visual\list22\obj\Debug\net8.0\list22.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual\list22\obj\Debug\net8.0\list22.AssemblyInfoInputs.cache
+D:\Visual\list22\obj\Debug\net8.0\list22.AssemblyInfo.cs
+D:\Visual\list22\obj\Debug\net8.0\list22.csproj.CoreCompileInputs.cache
+D:\Visual\list22\obj\Debug\net8.0\list22.dll
+D:\Visual\list22\obj\Debug\net8.0\refint\list22.dll
+D:\Visual\list22\obj\Debug\net8.0\list22.pdb
+D:\Visual\list22\obj\Debug\net8.0\list22.genruntimeconfig.cache
+D:\Visual\list22\obj\Debug\net8.0\ref\list22.dll
